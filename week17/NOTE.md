@@ -3,7 +3,7 @@
  * @Author: Looper
  * @Date: 2020-04-22 21:47:02
  * @LastEditors: Looper
- * @LastEditTime: 2020-08-05 22:57:53
+ * @LastEditTime: 2020-09-01 22:52:24
  * @FilePath: \Frontend-01-Template\week17\NOTE.md
 -->
 
@@ -56,3 +56,12 @@ render() {
 - '\033[nk' = 清空 n 行
 - '\033[n;mH' = 移动 n 行 m 列
   有了这些就可以像画图一样渲染命令行界面，当用户在选择(按键)时，触发修改，然后重新渲染界面。直到按下回车键强行退出。
+
+# 学习工具链
+
+## 整理常用工具链
+
+- 初始化
+- 开发
+- 测试
+- 发布
